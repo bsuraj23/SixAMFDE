@@ -5,7 +5,7 @@ age = 20
 if age != 18:
     print("Age is not 18")
 else:
-    print("Age is 18")  #Age is not 18
+    print("Age is 18")  #Age is not 18 Age is not 18
 
 
 fruit = "apple"
